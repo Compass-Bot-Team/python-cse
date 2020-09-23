@@ -1,0 +1,13 @@
+__pycache__
+*.json
+*.html
+*.sublime-project
+*.sublime-workspace
+*.conf
+build
+dist
+*.egg-info
+docs/_build
+docs/_static
+docs/_templates
+.github
