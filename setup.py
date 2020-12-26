@@ -23,7 +23,7 @@ setuptools.setup(
 	long_description_content_type='text/markdown',
 	include_package_data=True,
 	install_requires=requirements,
-	python_requires='>=3.7.4',
+	python_requires='>=3.7.3',
 	classifiers=[
 		"Development Status :: 4 - Beta",
 		"License :: OSI Approved :: Apache Software License",
