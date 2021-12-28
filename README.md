@@ -1,5 +1,9 @@
 [![Documentation Status](https://readthedocs.org/projects/python-cse/badge/?version=latest)](https://python-cse.readthedocs.io/en/latest/?badge=latest)
 
+
+I'm not the original creator, I don't know how to help with anything. The original library was deleted. 
+
+
 # Python-CSE
 An asynchronous wrapper for the [Google Programmable Search Engine](https://programmablesearchengine.google.com).
 <img alt="google" src="https://cdn.idevision.net/DOR.png" align="right" />
